@@ -1,6 +1,4 @@
-package Basico.vetores;
-
-import java.util.Scanner;
+package vetores;
 
 public class Vetores02 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Basico.vetores;
+package vetores;
 
 public class Matrizes {
     public static void main(String[] args) {
